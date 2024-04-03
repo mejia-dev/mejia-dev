@@ -1,13 +1,15 @@
 <h2 align="center">Hi, I'm Aaron! 🐸</h2>
 <p align="center">I'm a full-stack developer with an extensive history as an IT trainer & technical writer.</p>
 
-<img align="right" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="gif of frog using computer to program"/>
-<br />
+<p align="center">
+  <img align="right" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="gif of frog using computer to program" width="375"/>  
+</p>
+
 <h3>About:</h3>
 <ul>
   <li>🔨 Currently Building: <a href="https://github.com/mejia-dev/rhythmrunner" target="_blank">RhythmRunner</a>.</li>
   <li>🌱 Currently Learning: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API" target="_blank">🎶 Web Audio API 🎶</a>.</li>
-  <li>⚙ Actively contributing to: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com.</a></li>
+  <li>⚙ Actively contributing to: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
   <li>🐸 Frog-lover</li>
 </ul>
 
@@ -16,11 +18,11 @@
   <li>🖥 Worked in IT for 5 years as a senior technician, documentation manager, and trainer.</li>
   <li>📜 Received certificate of Web & Mobile Development from <a href="https://epicodus.com" target="_blank">Epicodus</a>.</li>
 </ul>
-
-<h3>Get in Touch:</h3>
-<p>📬 Let's connect! <a href="mailto:aaron@mejia.dev">Contact Me</a></p>
-
 <br />
+
+<h3 align="center">Get in Touch:</h3>
+<p align="center">📬 Let's connect! <a href="mailto:aaron@mejia.dev">Contact Me</a></p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak"/>
