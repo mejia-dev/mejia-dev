@@ -16,11 +16,11 @@
   <li>🖥 Worked in IT for 5 years as a senior technician, documentation manager, and trainer.</li>
   <li>📜 Received certificate of Web & Mobile Development from <a href="https://epicodus.com" target="_blank">Epicodus</a>.</li>
 </ul>
-<h4 align="center">
-📬 Get in Touch! <a href="mailto:aaron@mejia.dev">Contact Me</a>
-</h4>
-<br /><br />
 
+<h3>Get in Touch:</h3>
+<p>📬 Let's connect! <a href="mailto:aaron@mejia.dev">Contact Me</a></p>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak"/>
