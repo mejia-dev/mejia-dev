@@ -13,7 +13,7 @@
   <li>🔨 Currently building: <a href="https://github.com/mejia-dev/rhythmrunner" target="_blank">RhythmRunner</a>.</li>
   <li>🌱 Currently learning: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API" target="_blank">Web Audio API</a>.</li>
   <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
-  <li>🐸 Frog-lover</li>
+  <li>🐸 Frog enthusiast</li>
 </ul>
 <h3>Background:</h3>
 <ul>
