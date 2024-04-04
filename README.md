@@ -1,25 +1,24 @@
 <h2 align="center">Hi, I'm Aaron! 👋</h2>
 <p align="center">I'm a full-stack developer with an extensive history as an IT trainer & technical writer.</p>
 
-<!-- Original Image Source: https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif -->
 <p align="center">
-  <img  src="./gif/tenor-frog-banner.gif"></img>  
+  <a href="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" target="_blank"><img src="./gif/tenor-frog-banner.gif"></img></a>
 </p>
 
 
 <div align="left">
-<h3>About:</h3>
-<ul>
-  <li>🔨 Currently building: <a href="https://github.com/mejia-dev/rhythmrunner" target="_blank">RhythmRunner</a>.</li>
-  <li>🌱 Currently learning: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API" target="_blank">Web Audio API</a>.</li>
-  <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
-  <li>🐸 Frog enthusiast</li>
-</ul>
-<h3>Background:</h3>
-<ul>
-  <li>🖥 Worked in IT for 5 years as a senior technician, documentation manager, and trainer.</li>
-  <li>📜 Received certificate of Web & Mobile Development from <a href="https://epicodus.com" target="_blank">Epicodus</a>.</li>
-</ul>
+  <h3>About:</h3>
+  <ul>
+    <li>🔨 Currently building: <a href="https://github.com/mejia-dev/rhythmrunner" target="_blank">RhythmRunner</a>.</li>
+    <li>🌱 Currently learning: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API" target="_blank">Web Audio API</a>.</li>
+    <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
+    <li>🐸 Frog enthusiast</li>
+  </ul>
+  <h3>Background:</h3>
+  <ul>
+    <li>🖥 Worked in IT for 5 years as a senior technician, documentation manager, and trainer.</li>
+    <li>📜 Received certificate of Web & Mobile Development from <a href="https://epicodus.com" target="_blank">Epicodus</a>.</li>
+  </ul>
 </div>
 <br />
 
@@ -28,11 +27,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak" />
 </p>
 
 <details>
-  <summary><h3>⚡ Technologies</h3></summary>
+  <summary>
+    <h3>⚡ Technologies</h3>
+  </summary>
   <div>
     <h4>💻 Programming & Markup Languages</h4>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash"></a>
@@ -93,7 +94,9 @@
   </div>
 </details>
 <details>
-  <summary><h3>📊 GitHub Stats</h3></summary>
+  <summary>
+    <h3>📊 GitHub Stats</h3>
+  </summary>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=mejia-dev&show_icons=true&theme=dark" alt="Aaron's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mejia-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aaron's Most-Used Languages" />
