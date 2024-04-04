@@ -20,8 +20,8 @@
   <li>🖥 Worked in IT for 5 years as a senior technician, documentation manager, and trainer.</li>
   <li>📜 Received certificate of Web & Mobile Development from <a href="https://epicodus.com" target="_blank">Epicodus</a>.</li>
 </ul>
-<br />
 </div>
+<br />
 
 <h3 align="center">Get in Touch:</h3>
 <p align="center">📬 Let's connect! <a href="mailto:aaron@mejia.dev">Contact Me</a></p>
