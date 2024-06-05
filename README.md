@@ -9,10 +9,10 @@
 <div align="left">
   <h3>About:</h3>
   <ul>
-    <li>🔨 Currently building: <a href="https://github.com/mejia-dev/rhythmrunner" target="_blank">RhythmRunner</a>.</li>
-<!--     <li>🌱 Currently learning: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API" target="_blank">Web Audio API</a>.</li> -->
+    <li>🔨 Currently building: <a href="https://github.com/mejia-dev/mejia.dev" target="_blank">mejia.dev</a>.</li>
+    <li>🌱 Currently learning: <a href="https://xunit.net/" target="_blank">xUnit</a>.</li>
     <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
-    <li>🐸 Frog enthusiast</li>
+    <li>🐸 Frog enthusiast.</li>
   </ul>
   <h3>Background:</h3>
   <ul>
@@ -63,12 +63,14 @@
     <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"></a>
     <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"></a>
     <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
+    <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
     <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
     <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
     <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></a>
     <h4>🗃 Databases, Cloud, & Hosting</h4>
     <a href="https://azure.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></a>
     <a href="https://firebase.google.com/docs/firestore" target="_blank"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></a>
     <a href="https://pages.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHub Pages"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
@@ -76,6 +78,7 @@
     <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></a>
     <a href="https://postgresql.com/" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></a>
     <a href="https://www.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515" alt="PythonAnywhere"></a>
+    <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render"></a>
     <h4>🔧 IDEs & Tools:</h4>
     <a href="https://www.audacityteam.org/" target="_blank"><img src="https://img.shields.io/badge/Audacity-0000CC.svg?style=for-the-badge&logo=Audacity&logoColor=white" alt="Audacity"></a>
     <a href="https://eclipseide.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"></a>
