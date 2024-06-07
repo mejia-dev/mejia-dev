@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Aaron! 👋</h2>
-<p align="center">I'm a full-stack developer with an extensive history as an IT trainer & technical writer.</p>
+<p align="center">I'm a full-stack developer with an extensive history as a technical writer and IT trainer.</p>
 
 <p align="center">
   <a href="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" target="_blank"><img src="./gif/tenor-frog-banner.gif"></img></a>
@@ -9,10 +9,9 @@
 <div align="left">
   <h3>About:</h3>
   <ul>
-    <li>🔨 Currently building: <a href="https://github.com/mejia-dev/mejia.dev" target="_blank">mejia.dev</a>.</li>
-    <li>🌱 Currently learning: <a href="https://xunit.net/" target="_blank">xUnit</a>.</li>
+    <li>🔨 Currently building: <a href="https://github.com/mejia-dev/WhatsApp-Notification-Sound-Changer" target="_blank">WhatsApp-Notification-Sound-Changer</a>.</li>
+    <li>🌱 Currently learning: <a href=https://developer.chrome.com/docs/extensions/reference/api target="_blank">Chrome Extension APIs</a>.</li>
     <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
-    <li>🐸 Frog enthusiast.</li>
   </ul>
   <h3>Background:</h3>
   <ul>
