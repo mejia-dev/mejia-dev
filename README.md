@@ -1,17 +1,16 @@
 <h2 align="center">Hi, I'm Aaron! 👋</h2>
-<p align="center">I'm a full-stack developer with an extensive history as a technical writer and IT trainer.</p>
-
 <p align="center">
-  <a href="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" target="_blank"><img src="./gif/tenor-frog-banner.gif"></img></a>
+  I'm a full-stack developer with an extensive history as a technical writer and IT trainer.<br />
+  <img src="./gif/LukasLundinFroglet.gif" alt="Frog hopping across the screen and croaking"/>
 </p>
-
 
 <div align="left">
   <h3>About:</h3>
   <ul>
-    <li>🔨 Currently building: <a href="https://github.com/mejia-dev/WhatsApp-Notification-Sound-Changer" target="_blank">WhatsApp-Notification-Sound-Changer</a>.</li>
-    <li>🌱 Currently learning: <a href=https://developer.chrome.com/docs/extensions/reference/api target="_blank">Chrome Extension APIs</a>.</li>
-    <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li>
+<!--     <li>🔨 Currently building: <a href="https://github.com/mejia-dev/WhatsApp-Notification-Sound-Changer" target="_blank">WhatsApp-Notification-Sound-Changer</a>.</li> -->
+    <li>⚙ Currently working in: <a href=https://learn.microsoft.com/en-us/dotnet/csharp/ target="_blank">C#</a>, with <a href=https://www.selenium.dev/ target="_blank">Selenium</a> and <a href=https://xunit.net/ target="_blank">xUnit</a>.</li>
+    <li>🌱 Currently learning: <a href=https://www.langchain.com/ target="_blank">LangChain</a>.</li>
+<!--     <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li> -->
   </ul>
   <h3>Background:</h3>
   <ul>
@@ -99,7 +98,7 @@
   <summary>
     <h3>📊 GitHub Stats</h3>
   </summary>
-  <div>
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mejia-dev&show_icons=true&theme=dark" alt="Aaron's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mejia-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aaron's Most-Used Languages" />
   </div>
