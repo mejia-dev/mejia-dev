@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-aarons-projects-632d7e60.vercel.app/?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak" />
 </p>
 
 <details>
