@@ -99,8 +99,8 @@
     <h3>📊 GitHub Stats</h3>
   </summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mejia-dev&show_icons=true&theme=dark" alt="Aaron's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mejia-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aaron's Most-Used Languages" />
+    <img src="https://github-readme-stats-aarons-projects-632d7e60.vercel.app/api?username=mejia-dev&show_icons=true&theme=dark" alt="Aaron's GitHub Stats" />
+    <img src="https://github-readme-stats-aarons-projects-632d7e60.vercel.app/api/top-langs?username=mejia-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aaron's Most-Used Languages" />
   </div>
 </details>
 
