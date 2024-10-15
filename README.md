@@ -1,34 +1,19 @@
-<h2 align="center">Hi, I'm Aaron! 👋</h2>
-<p align="center">
-  I'm a full-stack developer with an extensive history as a technical writer and IT trainer.<br />
-  <img src="./gif/LukasLundinFroglet.gif" alt="Frog hopping across the screen and croaking"/>
-</p>
+<h1>Hi, I'm Aaron! <img src="./gif/LukasLundinFroglet.gif" alt="Frog hopping across the screen and croaking"/></h1>
+<!-- I'm a full-stack developer with an extensive history as a technical writer and IT trainer. -->
+Full-Stack Dev · Technical Writer · Cybsecurity Consultant · IT Trainer · Frog Enthusiast
+<br /><br />
 
-<div align="left">
-  <h3>About:</h3>
-  <ul>
-<!--     <li>🔨 Currently building: <a href="https://github.com/mejia-dev/WhatsApp-Notification-Sound-Changer" target="_blank">WhatsApp-Notification-Sound-Changer</a>.</li> -->
-    <li>⚙ Currently working in: <a href=https://learn.microsoft.com/en-us/dotnet/csharp/ target="_blank">C#</a>, with <a href=https://www.selenium.dev/ target="_blank">Selenium</a> and <a href=https://xunit.net/ target="_blank">xUnit</a>.</li>
-    <li>🌱 Currently learning: <a href=https://www.langchain.com/ target="_blank">LangChain</a>.</li>
-<!--     <li>👐 Currently contributing to open-source curriculum: <a href="https://github.com/epicodus-curriculum/" target="_blank">LearnHowToProgram.com</a>.</li> -->
-  </ul>
-  <h3>Background:</h3>
-  <ul>
-    <li>🖥 Worked in IT for 5 years as a senior technician, documentation manager, and trainer.</li>
-    <li>📜 Received certificate of Web & Mobile Development from <a href="https://epicodus.com" target="_blank">Epicodus</a>.</li>
-  </ul>
-</div>
-<br />
+<img align="right" src="https://github-readme-streak-stats-sigma-silk.vercel.app/?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak" />
 
-<h3 align="center">Get in Touch:</h3>
-<p align="center">📬 Let's connect! <a href="mailto:aaron@mejia.dev">Contact Me</a></p>
+- 🔨 Currently working in [Django](https://www.djangoproject.com/), [React](https://react.dev/), and the [Microsoft Graph REST API](https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0)
+- 🌱 Exploring: [X3DH implementations](https://signal.org/docs/specifications/x3dh/)
+- 🌐 Visit Me: [mejia.dev](https://mejia.dev/)
+- 📫 Say Hello: <a href="mailto:aaron@mejia.dev" style="text-decoration:none">aaron@mejia.dev</a>
+
+<br /><br /><br />
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-sigma-silk.vercel.app/?user=mejia-dev&theme=soft-green" alt="Aaron's GitHub Streak" />
-</p>
-
-<details>
+<details align="center">
   <summary>
     <h3>⚡ Technologies</h3>
   </summary>
@@ -77,7 +62,7 @@
     <a href="https://postgresql.com/" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></a>
     <a href="https://www.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515" alt="PythonAnywhere"></a>
     <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render"></a>
-    <h4>🔧 IDEs & Tools:</h4>
+    <h4>🔧 Tools:</h4>
     <a href="https://www.audacityteam.org/" target="_blank"><img src="https://img.shields.io/badge/Audacity-0000CC.svg?style=for-the-badge&logo=Audacity&logoColor=white" alt="Audacity"></a>
     <a href="https://eclipseide.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"></a>
     <a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"></a>
@@ -94,13 +79,13 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
   </div>
 </details>
-<details>
+<details align="center">
   <summary>
     <h3>📊 GitHub Stats</h3>
   </summary>
   <div align="center">
     <img src="https://github-readme-stats-aarons-projects-632d7e60.vercel.app/api?username=mejia-dev&show_icons=true&theme=dark" alt="Aaron's GitHub Stats" />
-    <img src="https://github-readme-stats-aarons-projects-632d7e60.vercel.app/api/top-langs?username=mejia-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aaron's Most-Used Languages" />
+    <img src="https://github-readme-stats-aarons-projects-632d7e60.vercel.app/api/top-langs?username=mejia-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aaron's Most-Used Languages"   />
   </div>
 </details>
 
