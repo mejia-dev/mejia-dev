@@ -1,19 +1,13 @@
 <h1>Hi, I'm Aaron! <img src="./gif/LukasLundinFroglet.gif" alt="Frog hopping across the screen and croaking"/></h1>
-<!-- I'm a full-stack developer with an extensive history as a technical writer and IT trainer. -->
-Full-Stack Dev · Technical Writer · Cybersecurity Consultant · IT Trainer · Frog Enthusiast
+Full-Stack Dev · Web Security Engineer · Technical Writer · Frog Enthusiast
 <br /><br />
 
-
-
-<br />
-
-- 🔨 Currently working in [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet), [React](https://react.dev/), and [Microsoft Graph](https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0).
-- 🌐 Visit Me: [mejia.dev](https://mejia.dev/)
-- 📫 Say Hello: <a href="mailto:aaron@mejia.dev" style="text-decoration:none">aaron@mejia.dev</a>
+- 💼 Lead Developer @ <a href="https://github.com/olstechnology">OLS Technology</a>
+- 🌐 Website: <a href="https://mejia.dev/">mejia.dev</a>
+- 📫 Contact: <a href="mailto:aaron@mejia.dev" style="text-decoration:none">aaron@mejia.dev</a>
 
 <br />
 <hr />
-
 
 <details align="center">
   <summary>
