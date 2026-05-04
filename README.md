@@ -2,7 +2,7 @@
 Full-Stack Dev · Web Security Engineer · Technical Writer · Frog Enthusiast
 <br /><br />
 
-- 💼 Lead Developer @ <a href="https://github.com/olstechnology">OLS Technology</a>
+- 💼 Developer @ 1Stream
 - 🌐 Website: <a href="https://mejia.dev/">mejia.dev</a>
 - 📫 Contact: <a href="mailto:aaron@mejia.dev" style="text-decoration:none">aaron@mejia.dev</a>
 
