@@ -1,12 +1,7 @@
 <h1>Hi, I'm Aaron! <img src="./gif/LukasLundinFroglet.gif" alt="Frog hopping across the screen and croaking"/></h1>
 Full-Stack Dev · Web Security Engineer · Technical Writer · Frog Enthusiast
-<br /><br />
-
-- 💼 Developer @ 1Stream
-- 🌐 Website: <a href="https://mejia.dev/">mejia.dev</a>
-- 📫 Contact: <a href="mailto:aaron@mejia.dev" style="text-decoration:none">aaron@mejia.dev</a>
-
 <br />
+
 <hr />
 
 <details align="center">
